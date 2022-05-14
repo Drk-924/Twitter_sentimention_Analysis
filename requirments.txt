@@ -1,0 +1,17 @@
+1.numpy
+2.pandas 
+3.sklearn
+4.matplotlib
+5.seaborn 
+6.wordcloud 
+7.nltk
+8.sklearn.svm-LinearSVC
+9.sklearn.linear_model
+10.sklearn.model_selection 
+11.sklearn.feature_extraction.text-TfidfVectorizer
+12.sklearn.ensemble-RandomForestClassifier
+13.sklearn.metrics - confusion_matrix, classification_report
+14.vaderSentiment.
+15.PIL 
+16.urllib
+17.requests
